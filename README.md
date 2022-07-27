@@ -1,3 +1,3 @@
-git remote add origin https://github.com/ChoYongwoon/Study.git
-git branch -M main
-git push -u origin main
+백준 문제 풀이 \n
+사용 언어 : C++ \n
+파일명 : 문제 번호
